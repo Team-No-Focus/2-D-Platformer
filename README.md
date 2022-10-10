@@ -1,7 +1,7 @@
 # Mario Clone (In Construction)
 ## Introduction
-<img src="Images/temp_box_logo.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+<img src="Images/cnet-nintendo-super-mario-bros.png" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="150" height="120">
 Team No Focus(TNF) presents a spin-off of the iconic title, Super Mario Bros. We intend to provide
 fast and challenging gameplay that anyone can enjoy.
 ## Features
