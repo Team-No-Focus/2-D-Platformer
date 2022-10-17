@@ -18,3 +18,4 @@ fast and challenging gameplay for anyone to enjoy.
 #### Authors
 [Wesly Barayuga](https://github.com/wes-brook) |
 [Evan Vang](https://github.com/evanvang)
+![image](https://user-images.githubusercontent.com/108452607/196296502-1dc9752f-9832-4af3-a9b8-5bd529337ebc.png)
