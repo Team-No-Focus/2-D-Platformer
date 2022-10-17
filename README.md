@@ -1,7 +1,6 @@
 # Death, Taxes, and Business (In Development)
 ## Introduction
-<img src="Images/cnet-nintendo-super-mario-bros.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="150" height="120">
+![image](https://user-images.githubusercontent.com/108452607/196296584-a8f0d827-4529-4da4-b417-d66d8360ffb4.png)
 Team No Focus(TNF) presents a spin-off of the iconic title, Super Mario Bros. We intend to create
 fast and challenging gameplay for anyone to enjoy.
 ## Features
@@ -18,4 +17,3 @@ fast and challenging gameplay for anyone to enjoy.
 #### Authors
 [Wesly Barayuga](https://github.com/wes-brook) |
 [Evan Vang](https://github.com/evanvang)
-![image](https://user-images.githubusercontent.com/108452607/196296502-1dc9752f-9832-4af3-a9b8-5bd529337ebc.png)
