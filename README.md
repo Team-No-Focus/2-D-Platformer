@@ -16,5 +16,5 @@ fast and challenging gameplay for anyone to enjoy.
 ## Milestones
 1. To be added
 #### Authors
--[Wesly Barayuga](https://github.com/wes-brook) 
--[Evan Vang](https://github.com/evanvang)
+[Wesly Barayuga](https://github.com/wes-brook) 
+[Evan Vang](https://github.com/evanvang)
